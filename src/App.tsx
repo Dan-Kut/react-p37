@@ -8,7 +8,7 @@ const App = () => {
   return (
   <>
   <Book image='https://upload.wikimedia.org/wikipedia/en/2/21/Web_of_Spider-Man_Vol_1_129-1.png' name="spider-man" price={2000} characteristics='this is a very good book, and it is 200 pages long' >
-   <div>Date of publish</div>
+   <div>Date of publishment</div>
    <button>Order</button>
   </Book>
 
